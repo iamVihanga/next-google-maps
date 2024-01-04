@@ -26,7 +26,7 @@ const MapConfigOptions: google.maps.MapOptions = {
 
 const MapConfig = {
   zoom: 12,
-  center: { lat: 48.716385, lng: 21.261074 },
+  center: { lat: 50.8511483, lng: -1.0848455 },
   options: MapConfigOptions,
   mapContainerStyle: {
     width: "100vw",
